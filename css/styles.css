@@ -41,7 +41,7 @@ header {
 .header-logo {
     display: block;
     margin: 0 auto;
-    width: 50px;
+    width: 70px;
     height: auto;
 }
 
@@ -93,7 +93,7 @@ header nav ul li a:hover:after {
     background: #cfe9f7; /* أزرق فاتح يتماشى مع لون الشعار */
     color: #000000; /* نص أسود */
     text-align: center;
-    padding: 2rem 1rem;
+    padding: 3rem 1rem;
 }
 
 .hero h1 {
